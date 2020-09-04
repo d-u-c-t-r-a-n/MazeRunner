@@ -1,6 +1,6 @@
 # MazeRunner
 How to play:  
-1.  
+1.  First click for START
 2.  
 
 
