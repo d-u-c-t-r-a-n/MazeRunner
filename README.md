@@ -1,7 +1,7 @@
 # MazeRunner
 How to play:  
-1.  First click for START
-2.  
+1.  First click to set START
+2.  Second click to set END
 
 
 This program aims to  
