@@ -5,7 +5,7 @@ How to play:
 3. Third+ clicks to set WALLS  
 4. Enter to finalize maze  
 5. Pick your method (1, 2, or 3)   
-6.   
+6. Enter again to run away!  
 
 
 
