@@ -14,5 +14,5 @@ This program aims to solve any maze defined by users using DFS, BFS or A Star
 What I learned:  
 1. Pygame basics  
 2. MVC model  
-3.  
+3. Basic search algorithms  
 4.  
