@@ -15,4 +15,4 @@ What I learned:
 1. Pygame basics  
 2. MVC model  
 3. Basic search algorithms  
-4.  
+4. OOP 
