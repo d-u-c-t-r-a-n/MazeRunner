@@ -12,7 +12,7 @@ How to play:
 
 This program aims to solve any maze defined by users using DFS, BFS or A Star  
 What I learned:  
-1. Pygame basics  
+1. OOP 
 2. MVC model  
-3. Basic search algorithms  
-4. OOP 
+3. Pygame basics  
+4. Basic search algorithms  
