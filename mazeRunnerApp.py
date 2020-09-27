@@ -33,7 +33,7 @@ def main():
                 # MODIFY (UNCOMMENT BELOW) IF ADD PREDEFINED MAZE
                 elif pixel != myMap.getStart() and pixel != myMap.getEnd():
                     pixel.setWall()
-                    # myMap.setStart(pixel)
+                    # myMap.setWalls()
 
             elif pygame.mouse.get_pressed()[2] and not myMap.getStarted(): # If click the right mouse
                 pixel = view.getClickedPixel(pygame.mouse.get_pos())
