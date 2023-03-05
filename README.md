@@ -17,3 +17,6 @@ What I learned:
 2. MVC model  
 3. Pygame basics  
 4. Basic search algorithms  
+
+
+Python: 3.10.4
