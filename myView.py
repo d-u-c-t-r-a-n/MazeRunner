@@ -5,6 +5,7 @@
 #    *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
 import pygame, myModel
+from os.path import dirname, abspath
 
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
@@ -49,7 +50,9 @@ class View:
         window = pygame.display.set_mode((self.height, self.height))
         window.fill(BLACK)
 
-        POKEFONT = pygame.freetype.Font("PokemonGB.ttf", 12)
+        file_path = dirname(abspath(__file__)) + "/PokemonGB.ttf"
+        POKEFONT = pygame.freetype.Font(file_path, 12)
+        
         positions = [[50, 50], [75, 100], [75, 150], [75, 200]]
         lines = ["HOW ARE YOU PLANNING TO EXIT?", "1. DFS", "2. BFS", "3. A Star"]
 
